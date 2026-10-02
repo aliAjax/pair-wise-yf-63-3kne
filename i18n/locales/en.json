@@ -1,8 +1,12 @@
 {
-  "title": "Multinational Trial Randomization Desk",
-  "subtitle": "Stratified randomization, role isolation, safe unblinding and pending queue",
+  "title": "Multinational Trial Randomization, Dispensing Reconciliation & Recall Desk",
+  "subtitle": "Stratified randomization, role isolation, safe unblinding, batch-controlled dispensing and offline backfill",
   "randomize": "Randomize",
   "participants": "Participants",
   "audit": "Safety audit",
-  "pending": "Pending queue"
+  "pending": "Pending queue",
+  "dispense": "Dispense request (by randomization no.)",
+  "inventory": "Drug box batches & recall",
+  "ledger": "Dispensing ledger reconciliation",
+  "orderHistory": "All dispense orders (exchange trail)"
 }

@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "nuxt dev --host 0.0.0.0 --port 62028",
     "build": "nuxt build",
+    "verify:store": "node scripts/verify-store.mjs",
     "preview": "nuxt preview --host 0.0.0.0 --port 62028",
     "postinstall": "nuxt prepare"
   },
