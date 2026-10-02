@@ -4,5 +4,11 @@
   "randomize": "Randomize",
   "participants": "Participants",
   "audit": "Safety audit",
-  "pending": "Pending queue"
+  "pending": "Pending queue",
+  "pharmacy": "Pharmacy dispensing & box management",
+  "ledger": "Dispensing ledger reconciliation",
+  "dispenseTab": "Dispense by random no.",
+  "boxesTab": "Box stock & intake",
+  "recallTab": "Batch recall & replacement",
+  "dispenseQueueTab": "Offline backlog queue"
 }

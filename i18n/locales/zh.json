@@ -4,5 +4,11 @@
   "randomize": "执行随机分组",
   "participants": "受试者",
   "audit": "安全审计",
-  "pending": "待提交队列"
+  "pending": "待提交队列",
+  "pharmacy": "药房发药与药盒管理",
+  "ledger": "发药台账对账",
+  "dispenseTab": "凭随机号发药",
+  "boxesTab": "药盒库存与入库",
+  "recallTab": "批号召回与换药",
+  "dispenseQueueTab": "断网补录队列"
 }
